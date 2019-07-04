@@ -35,3 +35,4 @@ GRANT ALL PRIVILEGES ON *.* TO 'NAZWA_UZYTKOWNIKA'@'%' IDENTIFIED BY 'HASLO';
 7. Jeśli po wejściu na adres_ip/phpmyadmin dostajemy informacje, że taka strona nie instnieje: ln -s /usr/share/phpmyadmin /var/www/html/phpmyadmin
 8. Jeśli adres_ip/phpmyadmin przenosi się na strone ale masz błąd (The mbstring extension is missing. Please check your PHP configuration.) wykonaj komendę: apt-get install php7.2-mbstring
 9. Jeśli pod adres_ip/phpmyadmin masz błąd (Brak rozszerzenia [mysqli] Proszę sprawdzić konfigurację PHP) wykonaj komendę: apt-get install php7.2-mysqli
+10. Jeśli po wejściu w import / export phpMyAdmin wskazuje jakieś błędy zastosuj się do tego rozwiązania: https://forum.lvlup.pro/t/blad-w-import-export-po-instalacji-phpmyadmin/11444/6?u=kaczuc
