@@ -18,7 +18,7 @@ apt-get install phpmyadmin
 
 4. Instalacja dodatkowych modulów PHP
 
-apt-get install php-mysql php-mcrypt php-gd php-cli php-curl php-enchant libapache2-mod-php --yes
+apt-get install php-mysql php-gd php-cli php-curl php-enchant libapache2-mod-php --yes
 
 5. Restart serwera Apache2
 
