@@ -11,10 +11,7 @@ apt-get install apache2 php7.2 mysql-server
 
 3. Instalacja phpMyAdmin
 
-apt-get install phpmyadmin
-(Zostaniemy zapytani o wybor serwera konfiguracji wybieramy pierwszy (apache2))
-(W kolejnym roku potwierdzamy komunikat Yes)
-(Ustawiamy nasze haslo do bazy danych oraz potwierdzamy je wpisujac ponownie w nowym oknie)
+Pobierz z strony 
 
 4. Instalacja dodatkowych modulów PHP
 
